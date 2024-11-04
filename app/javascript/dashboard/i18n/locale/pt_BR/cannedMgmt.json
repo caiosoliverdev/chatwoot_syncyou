@@ -1,0 +1,77 @@
+{
+  "CANNED_MGMT": {
+    "HEADER": "Respostas Pré-Escritas",
+    "LEARN_MORE": "Saiba mais sobre respostas pré-escritas",
+    "DESCRIPTION": "Respostas Pré-Escritas são modelos de resposta pré-escritos que ajudam você a responder rapidamente a uma conversa. Os agentes podem digitar o caractere '/' seguido pelo shortcode para inserir uma resposta pré-escrita durante uma conversa.",
+    "HEADER_BTN_TXT": "Adicionar resposta pré-escrita",
+    "LOADING": "Buscando respostas pré-escritas...",
+    "SEARCH_404": "Não há itens correspondentes a esta consulta.",
+    "LIST": {
+      "404": "Não há respostas pré-escritas disponíveis nesta conta.",
+      "TITLE": "Gerenciar respostas pré-escritas",
+      "DESC": "Respostas Pré-Escritas são modelos de resposta predefinidos que podem ser usados para enviar rapidamente respostas a conversas.",
+      "TABLE_HEADER": {
+        "SHORT_CODE": "Short code",
+        "CONTENT": "Conteúdo",
+        "ACTIONS": "Ações"
+      }
+    },
+    "ADD": {
+      "TITLE": "Adicionar resposta pré-escrita",
+      "DESC": "Respostas Pré-Escritas são modelos de resposta predefinidos que podem ser usados para enviar rapidamente respostas a conversas.",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
+      "FORM": {
+        "SHORT_CODE": {
+          "LABEL": "Short code",
+          "PLACEHOLDER": "Por favor, insira um short code.",
+          "ERROR": "Short code é obrigatório."
+        },
+        "CONTENT": {
+          "LABEL": "Mensagem",
+          "PLACEHOLDER": "Por favor, escreva a mensagem que deseja salvar como um modelo para usar depois.",
+          "ERROR": "Mensagem é obrigatória."
+        },
+        "SUBMIT": "Enviar"
+      },
+      "API": {
+        "SUCCESS_MESSAGE": "Resposta pré-escrita adicionada com sucesso.",
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot. Por favor, tente novamente."
+      }
+    },
+    "EDIT": {
+      "TITLE": "Editar resposta pré-escrita",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
+      "FORM": {
+        "SHORT_CODE": {
+          "LABEL": "Short code",
+          "PLACEHOLDER": "Por favor, insira um shortcode.",
+          "ERROR": "Short code é obrigatório."
+        },
+        "CONTENT": {
+          "LABEL": "Mensagem",
+          "PLACEHOLDER": "Por favor, escreva a mensagem que deseja salvar como um modelo para usar depois.",
+          "ERROR": "Mensagem é obrigatória."
+        },
+        "SUBMIT": "Enviar"
+      },
+      "BUTTON_TEXT": "Editar",
+      "API": {
+        "SUCCESS_MESSAGE": "Resposta pré-escrita atualizada com sucesso.",
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot. Por favor, tente novamente."
+      }
+    },
+    "DELETE": {
+      "BUTTON_TEXT": "Excluir",
+      "API": {
+        "SUCCESS_MESSAGE": "Resposta pré-escrita excluída com sucesso.",
+        "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot. Por favor, tente novamente."
+      },
+      "CONFIRM": {
+        "TITLE": "Confirmar exclusão",
+        "MESSAGE": "Tem certeza de que deseja excluir ",
+        "YES": "Sim, excluir ",
+        "NO": "Não, manter "
+      }
+    }
+  }
+}

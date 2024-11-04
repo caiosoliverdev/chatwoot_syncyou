@@ -1,0 +1,44 @@
+{
+  "REGISTER": {
+    "TRY_WOOT": "تسجيل حساب",
+    "TITLE": "تسجيل",
+    "TESTIMONIAL_HEADER": "إن كل ما يلزم هو خطوة واحدة للمضي قدما",
+    "TESTIMONIAL_CONTENT": "You're one step away from engaging your customers, retaining them and finding new ones.",
+    "TERMS_ACCEPT": "من خلال التسجيل، فإنك توافق على <a href=\"https://4tsistemas.com.br/terms\">شروط الخدمة</a> و <a href=\"https://4tsistemas.com.br/privacy-policy\">سياسة الخصوصية</a>",
+    "OAUTH": {
+      "GOOGLE_SIGNUP": "Sign up with Google"
+    },
+    "COMPANY_NAME": {
+      "LABEL": "Nome da empresa",
+      "PLACEHOLDER": "Enter your company name. eg: Wayne Enterprises",
+      "ERROR": "Nome da empresa é muito curto"
+    },
+    "FULL_NAME": {
+      "LABEL": "الاسم الكامل",
+      "PLACEHOLDER": "أدخل اسمك الكامل. مثال: بروس وين",
+      "ERROR": "الاسم الكامل قصير جداً"
+    },
+    "EMAIL": {
+      "LABEL": "البريد الإلكتروني للعمل",
+      "PLACEHOLDER": "أدخل عنوان بريدك الإلكتروني للعمل. مثال: bruce{'@'}wayne{'.'}enterprises",
+      "ERROR": "Insira um endereço de e-mail comercial válido"
+    },
+    "PASSWORD": {
+      "LABEL": "كلمة المرور",
+      "PLACEHOLDER": "كلمة المرور",
+      "ERROR": "كلمة المرور قصيرة جداً",
+      "IS_INVALID_PASSWORD": "يجب أن تحتوي كلمة المرور على الأقل على حرف كبير واحد وحرف صغير واحد ورقم واحد وحرف خاص واحد"
+    },
+    "CONFIRM_PASSWORD": {
+      "LABEL": "تأكيد كلمة المرور",
+      "PLACEHOLDER": "تأكيد كلمة المرور",
+      "ERROR": "كلمة المرور غير متطابقة"
+    },
+    "API": {
+      "SUCCESS_MESSAGE": "تم التسجيل بنجاح",
+      "ERROR_MESSAGE": "تعذر الاتصال بالخادم، الرجاء المحاولة مرة أخرى لاحقاً"
+    },
+    "SUBMIT": "إرسال",
+    "HAVE_AN_ACCOUNT": "هل لديك حساب مسبق؟"
+  }
+}

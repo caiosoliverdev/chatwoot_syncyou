@@ -1,0 +1,25 @@
+{
+    "WHATSAPP_TEMPLATES": {
+        "MODAL": {
+            "TITLE": "Modelos de Whatsapp",
+            "SUBTITLE": "Selecione o modelo do WhatsApp que você deseja enviar",
+            "TEMPLATE_SELECTED_SUBTITLE": "Processo {templateName}"
+        },
+        "PICKER": {
+            "SEARCH_PLACEHOLDER": "Modelos de pesquisa",
+            "NO_TEMPLATES_FOUND": "Nenhum modelo encontrado para",
+            "LABELS": {
+                "LANGUAGE": "Linguagem",
+                "TEMPLATE_BODY": "Corpo do modelo",
+                "CATEGORY": "Categoria"
+            }
+        },
+        "PARSER": {
+            "VARIABLES_LABEL": "Variáveis",
+            "VARIABLE_PLACEHOLDER": "Insira o valor da {variável}",
+            "GO_BACK_LABEL": "Volte",
+            "SEND_MESSAGE_LABEL": "Enviar mensagem",
+            "FORM_ERROR_MESSAGE": "Por favor, preencha todas as variáveis ​​antes de enviar"
+        }
+    }
+}

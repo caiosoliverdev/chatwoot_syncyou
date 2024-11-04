@@ -1,0 +1,122 @@
+{
+  "ATTRIBUTES_MGMT": {
+    "HEADER": "Atributos Personalizados",
+    "HEADER_BTN_TXT": "Adicionar Atributo Personalizado",
+    "LOADING": "Buscando atributos personalizados",
+    "DESCRIPTION": "Um atributo personalizado rastreia detalhes adicionais sobre seus contatos ou conversas—como o plano de assinatura ou a data da primeira compra. Você pode adicionar diferentes tipos de atributos personalizados, como texto, listas ou números, para capturar as informações específicas que você precisa.",
+    "LEARN_MORE": "Saiba mais sobre atributos personalizados",
+    "ADD": {
+      "TITLE": "Adicionar Atributo Personalizado",
+      "SUBMIT": "Criar",
+      "CANCEL_BUTTON_TEXT": "Cancelar",
+      "FORM": {
+        "NAME": {
+          "LABEL": "Nome Exibido",
+          "PLACEHOLDER": "Digite o nome exibido do atributo personalizado",
+          "ERROR": "O nome é obrigatório"
+        },
+        "DESC": {
+          "LABEL": "Descrição",
+          "PLACEHOLDER": "Digite a descrição do atributo personalizado",
+          "ERROR": "A descrição é obrigatória"
+        },
+        "MODEL": {
+          "LABEL": "Aplica-se a",
+          "PLACEHOLDER": "Por favor, selecione um",
+          "ERROR": "O modelo é obrigatório"
+        },
+        "TYPE": {
+          "LABEL": "Tipo",
+          "PLACEHOLDER": "Por favor, selecione um tipo",
+          "ERROR": "O tipo é obrigatório",
+          "LIST": {
+            "LABEL": "Valores da Lista",
+            "PLACEHOLDER": "Digite um valor e pressione a tecla enter",
+            "ERROR": "Deve haver pelo menos um valor"
+          }
+        },
+        "KEY": {
+          "LABEL": "Chave",
+          "PLACEHOLDER": "Digite a chave do atributo personalizado",
+          "ERROR": "A chave é obrigatória",
+          "IN_VALID": "Chave inválida"
+        },
+        "REGEX_PATTERN": {
+          "LABEL": "Padrão Regex",
+          "PLACEHOLDER": "Digite o padrão regex do atributo personalizado. (Opcional)"
+        },
+        "REGEX_CUE": {
+          "LABEL": "Dica Regex",
+          "PLACEHOLDER": "Digite a dica do padrão regex. (Opcional)"
+        },
+        "ENABLE_REGEX": {
+          "LABEL": "Habilitar validação regex"
+        }
+      },
+      "API": {
+        "SUCCESS_MESSAGE": "Atributo Personalizado adicionado com sucesso!",
+        "ERROR_MESSAGE": "Não foi possível criar um Atributo Personalizado. Por favor, tente novamente mais tarde."
+      }
+    },
+    "DELETE": {
+      "BUTTON_TEXT": "Deletar",
+      "API": {
+        "SUCCESS_MESSAGE": "Atributo Personalizado deletado com sucesso.",
+        "ERROR_MESSAGE": "Não foi possível deletar o atributo personalizado. Tente novamente."
+      },
+      "CONFIRM": {
+        "TITLE": "Você tem certeza que deseja deletar - {attributeName}",
+        "PLACE_HOLDER": "Por favor, digite {attributeName} para confirmar",
+        "MESSAGE": "Deletar removerá o atributo personalizado",
+        "YES": "Deletar ",
+        "NO": "Cancelar"
+      }
+    },
+    "EDIT": {
+      "TITLE": "Editar Atributo Personalizado",
+      "UPDATE_BUTTON_TEXT": "Atualizar",
+      "TYPE": {
+        "LIST": {
+          "LABEL": "Valores da Lista",
+          "PLACEHOLDER": "Por favor, digite os valores e pressione a tecla enter"
+        }
+      },
+      "API": {
+        "SUCCESS_MESSAGE": "Atributo Personalizado atualizado com sucesso",
+        "ERROR_MESSAGE": "Houve um erro ao atualizar o atributo personalizado, por favor tente novamente"
+      }
+    },
+    "TABS": {
+      "HEADER": "Atributos Personalizados",
+      "CONVERSATION": "Conversa",
+      "CONTACT": "Contato"
+    },
+    "LIST": {
+      "TABLE_HEADER": {
+        "NAME": "Nome",
+        "DESCRIPTION": "Descrição",
+        "TYPE": "Tipo",
+        "KEY": "Chave"
+      },
+      "BUTTONS": {
+        "EDIT": "Editar",
+        "DELETE": "Deletar"
+      },
+      "EMPTY_RESULT": {
+        "404": "Não existem atributos personalizados criados",
+        "NOT_FOUND": "Não existem atributos personalizados configurados"
+      },
+      "REGEX_PATTERN": {
+        "LABEL": "Padrão Regex",
+        "PLACEHOLDER": "Por favor, digite o padrão regex do atributo personalizado. (Opcional)"
+      },
+      "REGEX_CUE": {
+        "LABEL": "Dica Regex",
+        "PLACEHOLDER": "Por favor, digite a dica do padrão regex. (Opcional)"
+      },
+      "ENABLE_REGEX": {
+        "LABEL": "Habilitar validação regex"
+      }
+    }
+  }
+}

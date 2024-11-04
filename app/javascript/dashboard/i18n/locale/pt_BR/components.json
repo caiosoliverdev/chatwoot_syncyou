@@ -1,0 +1,25 @@
+{
+  "PAGINATION_FOOTER": {
+    "SHOWING": "Mostrando {startItem} - {endItem} de {totalItems} itens",
+    "CURRENT_PAGE_INFO": "{currentPage} de {totalPages} páginas"
+  },
+  "COMBOBOX": {
+    "PLACEHOLDER": "Selecione uma opção...",
+    "EMPTY_STATE": "Nenhum resultado encontrado.",
+    "SEARCH_PLACEHOLDER": "Pesquisar..."
+  },
+  "DIALOG": {
+    "BUTTONS": {
+      "CANCEL": "Cancelar",
+      "CONFIRM": "Confirmar"
+    }
+  },
+  "THUMBNAIL": {
+    "AUTHOR": {
+      "NOT_AVAILABLE": "Autor não disponível"
+    }
+  },
+  "BREADCRUMB": {
+    "ARIA_LABEL": "Navegação"
+  }
+}

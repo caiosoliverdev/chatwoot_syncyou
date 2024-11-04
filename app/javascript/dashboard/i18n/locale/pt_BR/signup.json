@@ -1,0 +1,44 @@
+{
+  "REGISTER": {
+    "TRY_WOOT": "Crie uma conta",
+    "TITLE": "Registrar",
+    "TESTIMONIAL_HEADER": "Tudo o que você precisa é de um passo para avançar",
+    "TESTIMONIAL_CONTENT": "Você está a um passo de envolver seus clientes, retê-los e encontrar novos.",
+    "TERMS_ACCEPT": "Ao criar uma conta, você concorda com nossos <a href=\"https://4tsistemas.com.br/terms\">Termos e Condições</a>  e <a href=\"https://4tsistemas.com.br/privacy-policy\">Política de Privacidade</a>",
+    "OAUTH": {
+      "GOOGLE_SIGNUP": "Inscreva-se com o Google"
+    },
+    "COMPANY_NAME": {
+      "LABEL": "Nome da empresa",
+      "PLACEHOLDER": "Insira o nome da sua empresa. Ex.: Wayne Enterprises",
+      "ERROR": "O nome da empresa é muito curto."
+    },
+    "FULL_NAME": {
+      "LABEL": "Nome completo",
+      "PLACEHOLDER": "Insira seu nome completo. Ex.: Bruce Wayne",
+      "ERROR": "O nome completo é muito curto."
+    },
+    "EMAIL": {
+      "LABEL": "Email de trabalho",
+      "PLACEHOLDER": "Insira seu email de trabalho. Ex.: bruce{'@'}wayne{'.'}enterprises",
+      "ERROR": "Por favor, insira um endereço de email de trabalho válido."
+    },
+    "PASSWORD": {
+      "LABEL": "Senha",
+      "PLACEHOLDER": "Senha",
+      "ERROR": "A senha é muito curta.",
+      "IS_INVALID_PASSWORD": "A senha deve conter pelo menos 1 letra maiúscula, 1 letra minúscula, 1 número e 1 caractere especial."
+    },
+    "CONFIRM_PASSWORD": {
+      "LABEL": "Confirmar senha",
+      "PLACEHOLDER": "Confirmar senha",
+      "ERROR": "A senha não corresponde."
+    },
+    "API": {
+      "SUCCESS_MESSAGE": "Registro realizado com sucesso",
+      "ERROR_MESSAGE": "Não foi possível conectar ao servidor Woot. Por favor, tente novamente."
+    },
+    "SUBMIT": "Criar conta",
+    "HAVE_AN_ACCOUNT": "Já tem uma conta?"
+  }
+}

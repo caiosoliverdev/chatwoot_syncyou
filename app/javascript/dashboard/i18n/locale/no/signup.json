@@ -1,0 +1,44 @@
+{
+  "REGISTER": {
+    "TRY_WOOT": "Create an account",
+    "TITLE": "Registrer",
+    "TESTIMONIAL_HEADER": "All it takes is one step to move forward",
+    "TESTIMONIAL_CONTENT": "You're one step away from engaging your customers, retaining them and finding new ones.",
+    "TERMS_ACCEPT": "Ao criar uma conta, você concorda com nossos <a href=\"https://4tsistemas.com.br/terms\">T & C</a> e <a href=\"https://4tsistemas.com.br/privacy-policy\">Privacy policy</a>",
+    "OAUTH": {
+      "GOOGLE_SIGNUP": "Sign up with Google"
+    },
+    "COMPANY_NAME": {
+      "LABEL": "Nome da empresa",
+      "PLACEHOLDER": "Enter your company name. eg: Wayne Enterprises",
+      "ERROR": "Nome da empresa é muito curto"
+    },
+    "FULL_NAME": {
+      "LABEL": "Fullt navn",
+      "PLACEHOLDER": "Skriv inn fullt navn. F. eks: Ola Nordmann",
+      "ERROR": "Kontonavnet er for kort"
+    },
+    "EMAIL": {
+      "LABEL": "Bedriftse-postadresse",
+      "PLACEHOLDER": "Skriv inn din profesjonelle e-postadresse. F.eks: ola{'@'}olasbedrift.no",
+      "ERROR": "Insira um endereço de e-mail comercial válido"
+    },
+    "PASSWORD": {
+      "LABEL": "Passord",
+      "PLACEHOLDER": "Passord",
+      "ERROR": "Passordet er for kort",
+      "IS_INVALID_PASSWORD": "Password should contain atleast 1 uppercase letter, 1 lowercase letter, 1 number and 1 special character"
+    },
+    "CONFIRM_PASSWORD": {
+      "LABEL": "Bekreft passord",
+      "PLACEHOLDER": "Bekreft passord",
+      "ERROR": "Passordet stemmer ikke"
+    },
+    "API": {
+      "SUCCESS_MESSAGE": "Registrering fullført",
+      "ERROR_MESSAGE": "Kunne ikke koble til Woot Server, vennligst prøv igjen senere"
+    },
+    "SUBMIT": "Create account",
+    "HAVE_AN_ACCOUNT": "Har du allerede en konto?"
+  }
+}

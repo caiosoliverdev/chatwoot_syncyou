@@ -1,0 +1,22 @@
+# ------- Branding Related Config ------- #
+- name: INSTALLATION_NAME
+  value: "SyncYou"
+- name: LOGO_THUMBNAIL
+  value: "/brand-assets/logo_thumbnail.svg"
+- name: LOGO
+  value: "/brand-assets/logo.svg"
+- name: LOGO_DARK
+  value: "/brand-assets/logo_dark.svg"
+- name: BRAND_URL
+  value: "https://www.chatwoot.com"
+- name: WIDGET_BRAND_URL
+  value: "https://www.chatwoot.com"
+- name: BRAND_NAME
+  value: "SyncYou"
+- name: TERMS_URL
+  value: "https://4tsistemas.com.br/terms-of-service"
+- name: PRIVACY_URL
+  value: "https://4tsistemas.com.br/privacy-policy"
+- name: DISPLAY_MANIFEST
+  value: true
+# ------- End of Branding Related Config ------- #
